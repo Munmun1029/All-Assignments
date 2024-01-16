@@ -524,12 +524,13 @@ nav li a {
     }
 
     .feature1-text {
-        width: 100%;
+        width: 70%;
         padding: 0px 10px;
     }
 
     /* feature 2 Style Start */
     .feature2-img-continer {
+        width: 50%;
         margin-left: 0;
     }
 
@@ -557,12 +558,12 @@ nav li a {
     }
 
     .feature4-text {
-        width: 100%;
+        width: 70%;
         padding: 0px 10px;
     }
 
     .video {
-        width: 100%;
+        width: 70%;
         height: auto;
     }
 
@@ -573,16 +574,16 @@ nav li a {
     }
 
     .feature5-form Form {
-        width: 100%;
+        width: 70%;
     }
 
     .feature5-form img {
-        width: 100%;
+        width: 50%;
     }
 
     #Name,
     #email {
-        width: 100%;
+        width: 70%;
     }
 
     /* Extra feature Style Start */
